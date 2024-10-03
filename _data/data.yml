@@ -17,14 +17,14 @@ sidebar:
     # phone: 012 345 6789
     timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Korea
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
+    website:  # Include the full website URL, including "http://" or "https://".
+    linkedin: www.linkedin.com/in/cheonjun-park-ba7217183
     #xing: alandoe
-    github: jekyll
+    github: https://github.com/cheonjun-park
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,13 +36,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
@@ -51,10 +48,7 @@ sidebar:
         - item: Climbing
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Running
           link:
 
 career-profile:
